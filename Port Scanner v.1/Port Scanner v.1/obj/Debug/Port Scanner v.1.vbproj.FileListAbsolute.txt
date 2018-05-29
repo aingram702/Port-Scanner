@@ -1,0 +1,12 @@
+C:\Users\Andrew Ingram\source\repos\Port Scanner v.1\Port Scanner v.1\obj\Debug\Port Scanner v.1.vbprojResolveAssemblyReference.cache
+C:\Users\Andrew Ingram\source\repos\Port Scanner v.1\Port Scanner v.1\obj\Debug\Port_Scanner_v._1.Resources.resources
+C:\Users\Andrew Ingram\source\repos\Port Scanner v.1\Port Scanner v.1\obj\Debug\Port Scanner v.1.vbproj.GenerateResource.cache
+C:\Users\Andrew Ingram\source\repos\Port Scanner v.1\Port Scanner v.1\obj\Debug\Port Scanner v.1.vbproj.CoreCompileInputs.cache
+C:\Users\Andrew Ingram\source\repos\Port Scanner v.1\Port Scanner v.1\obj\Debug\Port_Scanner_v._1.Form1.resources
+C:\Users\Andrew Ingram\source\repos\Port Scanner v.1\Port Scanner v.1\bin\Debug\Port Scanner v.1.exe.config
+C:\Users\Andrew Ingram\source\repos\Port Scanner v.1\Port Scanner v.1\bin\Debug\Port Scanner v.1.exe
+C:\Users\Andrew Ingram\source\repos\Port Scanner v.1\Port Scanner v.1\bin\Debug\Port Scanner v.1.pdb
+C:\Users\Andrew Ingram\source\repos\Port Scanner v.1\Port Scanner v.1\bin\Debug\Port Scanner v.1.xml
+C:\Users\Andrew Ingram\source\repos\Port Scanner v.1\Port Scanner v.1\obj\Debug\Port Scanner v.1.exe
+C:\Users\Andrew Ingram\source\repos\Port Scanner v.1\Port Scanner v.1\obj\Debug\Port Scanner v.1.xml
+C:\Users\Andrew Ingram\source\repos\Port Scanner v.1\Port Scanner v.1\obj\Debug\Port Scanner v.1.pdb
